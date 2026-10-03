@@ -1,4 +1,4 @@
-# XWAR BAILEYS 
+# JESSE BAILEYS 
 <p align='center'>
   <img src="[https://qu.ax/RpLjG.jpg]" width="540">
 </p>
@@ -48,5 +48,5 @@ console.log("Ur pairing code : " + code)
 ```
 
 
-Follow https://t.me/xwarrxxx
+Follow https://t.me/jessenyabobo
 
